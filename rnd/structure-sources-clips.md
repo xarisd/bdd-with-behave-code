@@ -39,7 +39,8 @@ Easy way :
 pip install behave
 ```
 
-Other ways : http://pythonhosted.org/behave/install.html
+- Other ways : http://pythonhosted.org/behave/install.html
+- Behave-Django: https://pythonhosted.org/behave-django/
 
 ## How do I get started?
 
@@ -82,6 +83,8 @@ Once you’ve installed behave, we recommend reading the
 
 
 - https://packagecontrol.io/packages/Behave%20Step%20Finder
+    - TODO : Make it work locally nad document the gotchas
+
 
 
 
