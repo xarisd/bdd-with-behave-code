@@ -274,8 +274,19 @@ Let's do some `live coding!`
 - [Comparison With Other Tools](http://pythonhosted.org/behave/comparison.html)
 - ... I will post more when this goes online
 
-!SLIDE
 ## Thank you!
-
-<h2>Any questions?</h2>
+<p>&nbsp;</p>
+<p class="fragment">Liked the presentation?</p>
+<p class="fragment">
+  Source: <a href="http://github.com/xarisd/bdd-with-behave-code.git">github.com/xarisd/bdd-with-behave-code.git</a>
+</p>
+<p>&nbsp;</p>
+<p class="fragment">
+  Have something to say?
+</p>
+<p class="fragment">
+  Send me a tweet or DM: <a href="http://twitter.com/xarisd">@xarisd</a>
+</p>
+<p>&nbsp;</p>
+<p class="fragment">Questions?</p>
 
