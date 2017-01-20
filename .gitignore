@@ -1,2 +1,8 @@
+.DS_Store
+.gems
+*.swp
+
 bdd-with-behave-code.sublime-project
 bdd-with-behave-code.sublime-workspace
+
+slides

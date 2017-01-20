@@ -1,0 +1,13 @@
+---
+headers:
+    generator: "<%= Slideshow.generator %>"
+    title: BDD with behave
+    subtitle: An introduction to BDD for the Python developer
+    author: Haris Dimitriou
+    date: <%= Date.today %>
+    theme: serif
+    transition: linear
+    # available transitions: // default/cube/page/concave/zoom/linear/fade/none
+    # available themes: Default - Sky - Beige - Simple - Serif - Night - Moon - Solarized
+    # custom_css: presentation
+    # code-engine: coderay
