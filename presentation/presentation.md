@@ -246,3 +246,35 @@ What we just saw :
     <li class="fragment">We run the <code>scenarios</code> inside <code>features</code> using <code>behave</code> cli</li>
 </ul>
 
+
+!SLIDE
+Can I write whatever I want?
+
+## NO!
+
+<p class="fragment">But there is not TOO much to learn</p>
+
+## Meet Gherkin
+
+<p class="fragment">The language beneath :o </p>
+<a class="fragment" href="http://pythonhosted.org/behave/gherkin.html#gherkin-feature-testing-language">http://pythonhosted.org/behave/gherkin.html</a>
+
+!SLIDE
+Let's do some `live coding!`
+
+<p class="fragment">Please be gentle :-)</p>
+
+## Examples and Links
+
+- [Gherkin](http://pythonhosted.org/behave/gherkin.html)
+- [Django Testing Example](http://pythonhosted.org/behave/django.html)
+    - [behave-django](https://pythonhosted.org/behave-django/index.html)
+- [Relative software](http://pythonhosted.org/behave/related.html)
+- [Comparison With Other Tools](http://pythonhosted.org/behave/comparison.html)
+- ... I will post more when this goes online
+
+!SLIDE
+## Thank you!
+
+<h2>Any questions?</h2>
+
